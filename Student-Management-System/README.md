@@ -9,7 +9,7 @@ It is a simple Python GUI built with Tkinter and MongoDB backend.
 ## Usage
  Clone the repository :
 ```
-$ git clone https://github.com/diliphraguram/demo.git
+$ git clone https://github.com/diliphraguram/python-mongo.git
 ```
  Install Dependencies :
 ```
